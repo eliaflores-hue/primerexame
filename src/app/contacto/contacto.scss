@@ -1,0 +1,12 @@
+form{
+  display:grid;
+  gap:.6rem;
+  max-width:420px;
+  margin:0 0 1rem 0;
+}
+input,textarea{
+  border:1px solid var(--gray-3);
+  border-radius:.4rem;
+  padding:.55rem;
+}
+address{font-style:normal;color:#444}
